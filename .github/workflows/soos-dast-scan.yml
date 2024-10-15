@@ -17,5 +17,5 @@ jobs:
            project_name: "dast-githubActions-28"
            api_url: "https://qa-api.soos.io/api/"
            target_url: "https://brokencrystals.com/"
-           disableRules: 10003,10010,10011,10020,10021,10110
+           disable_rules: 10003,10010,10011,10020,10021,10110
 
